@@ -48,13 +48,13 @@
         </mj-section>
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-campus.fr" padding="0" src="images/relancejPO18112023_01.jpg" target="_blank" alt="Logo d'Ecosup Campus" />
+                <mj-image href="https://ecosup-campus.fr" padding="0" src="src/images/relancejPO18112023_01.jpg" target="_blank" alt="Logo d'Ecosup Campus" />
             </mj-column>
         </mj-section>
         <!--titre-->
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://forms.gle/FMbswfyToJvHPFEy6" padding="0px" src="images/relancejPO18112023_02.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 18 novembre 2023"/>
+                <mj-image href="https://forms.gle/FMbswfyToJvHPFEy6" padding="0px" src="src/images/relancejPO18112023_02.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 18 novembre 2023"/>
                 <mj-text align="left" mj-class="d-sous-titre" text-transform="uppercase" font-weight="700" css-class="m-padding">
                    <strong>JPO du 18 novembre 2023</strong>
                 </mj-text>
@@ -79,7 +79,7 @@
                 <mj-button font-size="16px" font-weight="700" background-color="#ff6600" color="white" href="https://forms.gle/FMbswfyToJvHPFEy6">
                     JE PARTICIPE
                     </mj-button>
-                    <mj-divider padding="30px 0px 20px 0px" width="50%" align="center" border-width="1px" border-style="solid" border-color="#732673" />
+                    <mj-divider padding="30px 0px 20px 0px" width="50%" border-width="1px" border-style="solid" border-color="#732673" />
                 </mj-column>
                 </mj-section>
                 <!--Comment s'y rendre-->
